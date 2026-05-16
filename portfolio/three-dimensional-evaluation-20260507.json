@@ -1,0 +1,35 @@
+[
+  {
+    "stock_code": "SZ002594",
+    "stock_name": "比亚迪",
+    "scores": {
+      "macro_trend": 85.0,
+      "industry_logic": 90.0,
+      "enterprise_performance": 80.0,
+      "total_score": 85.5
+    },
+    "recommendation": "核心持仓，可适度加仓"
+  },
+  {
+    "stock_code": "SZ002428",
+    "stock_name": "云南锗业",
+    "scores": {
+      "macro_trend": 85.0,
+      "industry_logic": 90.0,
+      "enterprise_performance": 80.0,
+      "total_score": 85.5
+    },
+    "recommendation": "核心持仓，可适度加仓"
+  },
+  {
+    "stock_code": "SZ300620",
+    "stock_name": "光库科技",
+    "scores": {
+      "macro_trend": 85.0,
+      "industry_logic": 90.0,
+      "enterprise_performance": 80.0,
+      "total_score": 85.5
+    },
+    "recommendation": "核心持仓，可适度加仓"
+  }
+]
