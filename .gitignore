@@ -1,0 +1,42 @@
+# OpenClaw 工作区忽略文件
+
+# 临时文件和缓存
+.opcclaw/
+*.pyc
+__pycache__/
+*.log
+.tmp/
+
+# 大型数据目录（本地使用，不推送）
+knowledge_base/
+research-daily/
+research-data/
+research-knowledge-base/
+research/
+research_daily/
+research_data/
+research_reports/
+skills/
+scripts/
+memory/
+
+# 投资组合历史文件（只保留最新的）
+portfolio/analysis-*.md
+portfolio/evening-push-*.md
+portfolio/daily-tracking-*.md
+portfolio/transaction-*.md
+portfolio/three-dimensional-*.md
+portfolio/stock_profiles/
+portfolio/research-knowledge-base/
+
+# 战略实施历史文件
+strategicimplementation/
+strategic_analysis/
+
+# 监控和配置文件
+yrt_monitoring/
+stocks_config_*.json
+get_reports.py
+
+# 临时同步文件
+SYNC_PROTOCOL.md
