@@ -437,10 +437,10 @@
 | **Tushare Pro** | `11c66ba1f1b5128c3aab5bed7eafeb9a22a78908bc54e6e8a23a5c0d` | ✅ 已配置 | 金融数据 |
 | **东方财富妙想** | `mkt_edXkhUWKFpgt_Sh21ZY4KqmCCY_lAHQs14iRauDZKWo` | ✅ 已配置 | 持仓更新 |
 | **阿里云 DashScope** | `sk-f8abd7b7af1c484e9b93758b5c594fea` | ✅ 已配置 | 备用模型 |
-| **腾讯云** | `AKIDHWYMvFK9j6FAsMbcOvCDzC9rJVcGo7C2` / `d1bw2uXv76sTqytqZv40jDTVN2Se4JJ3` | ✅ 已配置 | 备用 |
+| **腾讯云** | 已配置（密钥存储在 `.env` 文件） | ✅ 已配置 | 备用 |
 
 ### 数据中心密钥
-- `11c66ba1f1b5128c3aab5bed7eafeb9a22a78908bc54e6e8a23a5c0d`
+- 已迁移至 `.env` 文件（出于安全考虑不再明文记录）
 
 ### 投资理念与策略
 - **风格**：中长线持有，不做短线
