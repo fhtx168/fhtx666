@@ -1,0 +1,310 @@
+[
+  {
+    "name": "深南电路",
+    "code": "SZ002916",
+    "type": "A",
+    "price": 332.3,
+    "change_pct": -1.08
+  },
+  {
+    "name": "长电科技",
+    "code": "SH600584",
+    "type": "A",
+    "price": 60.81,
+    "change_pct": 4.25
+  },
+  {
+    "name": "中际旭创",
+    "code": "SZ300308",
+    "type": "A",
+    "price": 1030.0,
+    "change_pct": -1.44
+  },
+  {
+    "name": "飞凯材料",
+    "code": "SZ300398",
+    "type": "A",
+    "price": 38.02,
+    "change_pct": -1.04
+  },
+  {
+    "name": "宝丰能源",
+    "code": "SH600989",
+    "type": "A",
+    "price": 28.09,
+    "change_pct": -3.9
+  },
+  {
+    "name": "拓维信息",
+    "code": "SZ002261",
+    "type": "A",
+    "price": 34.68,
+    "change_pct": 2.21
+  },
+  {
+    "name": "埃斯顿",
+    "code": "SZ002747",
+    "type": "A",
+    "price": 26.86,
+    "change_pct": 3.03
+  },
+  {
+    "name": "德赛西威",
+    "code": "SZ002920",
+    "type": "A",
+    "price": 102.65,
+    "change_pct": -1.05
+  },
+  {
+    "name": "比亚迪",
+    "code": "SZ002594",
+    "type": "A",
+    "price": 96.0,
+    "change_pct": 1.58
+  },
+  {
+    "name": "沪电股份",
+    "code": "SZ002463",
+    "type": "A",
+    "price": 102.6,
+    "change_pct": -1.59
+  },
+  {
+    "name": "拓普集团",
+    "code": "SH601689",
+    "type": "A",
+    "price": 71.21,
+    "change_pct": -0.29
+  },
+  {
+    "name": "中科曙光",
+    "code": "SH603019",
+    "type": "A",
+    "price": 98.26,
+    "change_pct": -0.45
+  },
+  {
+    "name": "锡业股份",
+    "code": "SZ000960",
+    "type": "A",
+    "price": 36.35,
+    "change_pct": -3.58
+  },
+  {
+    "name": "兴业银锡",
+    "code": "SZ000426",
+    "type": "A",
+    "price": 41.72,
+    "change_pct": -2.98
+  },
+  {
+    "name": "中芯国际",
+    "code": "SH688981",
+    "type": "A",
+    "price": 118.82,
+    "change_pct": 1.02
+  },
+  {
+    "name": "金诚信",
+    "code": "SH603979",
+    "type": "A",
+    "price": 65.71,
+    "change_pct": 3.97
+  },
+  {
+    "name": "沪硅产业",
+    "code": "SH688126",
+    "type": "A",
+    "price": 29.52,
+    "change_pct": 20.0
+  },
+  {
+    "name": "中国巨石",
+    "code": "SH600176",
+    "type": "A",
+    "price": 34.9,
+    "change_pct": 2.23
+  },
+  {
+    "name": "东阳光",
+    "code": "SH600673",
+    "type": "A",
+    "price": 37.9,
+    "change_pct": 3.47
+  },
+  {
+    "name": "中石科技",
+    "code": "SZ300684",
+    "type": "A",
+    "price": 60.31,
+    "change_pct": 1.55
+  },
+  {
+    "name": "胜宏科技",
+    "code": "SZ300476",
+    "type": "A",
+    "price": 336.98,
+    "change_pct": -2.66
+  },
+  {
+    "name": "云南锗业",
+    "code": "SZ002428",
+    "type": "A",
+    "price": 90.59,
+    "change_pct": -0.93
+  },
+  {
+    "name": "光库科技",
+    "code": "SZ300620",
+    "type": "A",
+    "price": 269.93,
+    "change_pct": -1.84
+  },
+  {
+    "name": "中国铀业",
+    "code": "SZ001280",
+    "type": "A",
+    "price": 76.99,
+    "change_pct": -1.05
+  },
+  {
+    "name": "东微半导",
+    "code": "SH688261",
+    "type": "A",
+    "price": 86.88,
+    "change_pct": 3.89
+  },
+  {
+    "name": "英维克",
+    "code": "SZ002837",
+    "type": "A",
+    "price": 102.4,
+    "change_pct": 0.27
+  },
+  {
+    "name": "福晶科技",
+    "code": "SZ002222",
+    "type": "A",
+    "price": 105.45,
+    "change_pct": 0.69
+  },
+  {
+    "name": "兴森科技",
+    "code": "SZ002436",
+    "type": "A",
+    "price": 32.83,
+    "change_pct": -2.32
+  },
+  {
+    "name": "康龙化成",
+    "code": "SZ300759",
+    "type": "A",
+    "price": 26.33,
+    "change_pct": -0.04
+  },
+  {
+    "name": "科华数据",
+    "code": "SZ002335",
+    "type": "A",
+    "price": 67.72,
+    "change_pct": 0.06
+  },
+  {
+    "name": "中兴通讯",
+    "code": "SZ000063",
+    "type": "A",
+    "price": 37.65,
+    "change_pct": 0.37
+  },
+  {
+    "name": "中科创达",
+    "code": "SZ300496",
+    "type": "A",
+    "price": 69.52,
+    "change_pct": 2.9
+  },
+  {
+    "name": "国电南瑞",
+    "code": "SH600406",
+    "type": "A",
+    "price": 26.97,
+    "change_pct": 1.81
+  },
+  {
+    "name": "海南华铁",
+    "code": "SH603300",
+    "type": "A",
+    "price": 6.61,
+    "change_pct": 1.23
+  },
+  {
+    "name": "通富微电",
+    "code": "SZ002156",
+    "type": "A",
+    "price": 58.86,
+    "change_pct": 1.36
+  },
+  {
+    "name": "西藏珠峰",
+    "code": "SH600338",
+    "type": "A",
+    "price": 20.3,
+    "change_pct": -4.38
+  },
+  {
+    "name": "华虹公司",
+    "code": "SH688347",
+    "type": "A",
+    "price": 149.74,
+    "change_pct": 1.31
+  },
+  {
+    "name": "洛阳钼业",
+    "code": "SH603993",
+    "type": "A",
+    "price": 18.18,
+    "change_pct": -0.71
+  },
+  {
+    "name": "西藏矿业",
+    "code": "SZ000762",
+    "type": "A",
+    "price": 32.08,
+    "change_pct": -3.08
+  },
+  {
+    "name": "雄韬股份",
+    "code": "SZ002733",
+    "type": "A",
+    "price": 25.64,
+    "change_pct": -2.14
+  },
+  {
+    "name": "华工科技",
+    "code": "SZ000988",
+    "type": "A",
+    "price": 158.4,
+    "change_pct": 7.48
+  },
+  {
+    "name": "中国船舶",
+    "code": "SH600150",
+    "type": "A",
+    "price": 37.49,
+    "change_pct": -1.78
+  },
+  {
+    "name": "神州数码",
+    "code": "SZ000034",
+    "type": "A",
+    "price": 30.96,
+    "change_pct": 4.45
+  },
+  {
+    "name": "石英股份",
+    "code": "SH603688",
+    "type": "A",
+    "price": 68.64,
+    "change_pct": -1.44
+  }
+]
