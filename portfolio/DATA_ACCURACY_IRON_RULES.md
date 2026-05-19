@@ -442,3 +442,47 @@
   2. 使用 GitHub unblock 链接或重写历史
   3. 未来密钥只存储在 `.env` 文件，添加到 .gitignore
   4. 推送成功后补推所有积压提交
+
+---
+
+### 2026-05-19 08:19 Git 推送失败（cron:5245aebf 自动重试）🔴 GitHub Secret Scanning 拦截
+
+| 检查项 | 要求 | 实际 | 状态 |
+|--------|------|------|------|
+| 检查时间 | 08:19 | 08:19 | ✅ 准时 |
+| Git 工作树 | clean | clean | ✅ 干净 |
+| 本地未推送提交 | 0 个 | **41 个**（cdf1ee3 领先）| 🔴 **未推送** |
+| 推送状态 | 成功 | **被 GitHub 拦截** | 🔴 **失败** |
+| 失败原因 | - | GitHub Secret Scanning 检测到腾讯云密钥 | 🔴 **安全策略拦截** |
+| 重试次数 | 最多 3 次 | **第 1 次**（08:19）| ⏳ 待重试 |
+
+**严重问题**:
+1. **GitHub Secret Scanning 拦截推送**：检测到 5 个提交中包含腾讯云 Secret ID
+   - commit 2f0bac6: MEMORY.md:392
+   - commit 90fb61e: MEMORY.md:433
+   - commit 3a2d036: MEMORY.md:436
+   - commit 8aa7a44: portfolio/DATA_ACCURACY_IRON_RULES.md:329
+   - commit 8aa7a44: portfolio/DATA_ACCURACY_IRON_RULES.md:423
+2. **41 个本地提交未推送**：最新提交 cdf1ee3（Thirty-dim framework v3.0 upgrade）领先远程
+3. **非网络问题**：此为安全策略拦截，重试无效
+
+**根因分析**:
+- MEMORY.md 和历史提交中记录了腾讯云密钥明文
+- GitHub Secret Scanning 自动检测并阻止包含密钥的推送
+- 密钥应存储在 `.env` 文件中，不应提交到 Git 仓库
+- 07:49 已记录相同问题，08:19 为 cron 自动重试（第 1 次）
+
+**行动**:
+- ✅ 已记录本问题到 DATA_ACCURACY_IRON_RULES.md
+- 🔴 **需要用户手动处理**（无法自动修复）：
+  1. 从 MEMORY.md 中移除腾讯云密钥明文
+  2. 确认密钥已迁移到 `C:\Users\Admin\.opcclaw\.env`
+  3. 重写 Git 历史移除密钥（`git filter-branch` 或 BFG Repo-Cleaner）
+  4. 或联系 GitHub 解除拦截：https://github.com/fhtx168/fhtx666/security/secret-scanning/unblock-secret/3Dv2RXc0SfG2CuSSrCj6qvFqNWf
+  5. 推送成功后执行 `git push --force`（如重写历史）
+
+**结论**: 
+- **Git 同步状态**：🔴 **严重失败** - 41 提交未推送，GitHub 安全拦截
+- **数据安全性**：🟡 密钥已迁移到 .env，但历史提交中仍有明文
+- **重试策略**：❌ 无效 - 非网络问题，需先解决密钥泄露
+- **下次重试**：08:24（5 分钟后，第 2 次）
