@@ -1,310 +1,450 @@
 [
   {
-    "name": "深南电路",
-    "code": "SZ002916",
+    "name": "中际旭创",
+    "code": "300308",
+    "exchange": "SZ",
     "type": "A",
-    "price": 333.88,
-    "change_pct": 0.48
+    "price": 993.34,
+    "change_pct": -4.21
   },
   {
     "name": "长电科技",
-    "code": "SH600584",
+    "code": "600584",
+    "exchange": "SH",
     "type": "A",
-    "price": 66.22,
-    "change_pct": 8.9
+    "price": 66.84,
+    "change_pct": 0.94
   },
   {
-    "name": "中际旭创",
-    "code": "SZ300308",
+    "name": "深南电路",
+    "code": "002916",
+    "exchange": "SZ",
     "type": "A",
-    "price": 1037.0,
-    "change_pct": 0.68
+    "price": 343.88,
+    "change_pct": 3.0
+  },
+  {
+    "name": "盛美上海",
+    "code": "688082",
+    "exchange": "SH",
+    "type": "A",
+    "price": 212.72,
+    "change_pct": 0.97
+  },
+  {
+    "name": "中微公司",
+    "code": "688012",
+    "exchange": "SH",
+    "type": "A",
+    "price": 475.8,
+    "change_pct": -2.96
   },
   {
     "name": "飞凯材料",
-    "code": "SZ300398",
+    "code": "300398",
+    "exchange": "SZ",
     "type": "A",
-    "price": 39.19,
-    "change_pct": 3.08
+    "price": 36.76,
+    "change_pct": -6.2
   },
   {
     "name": "宝丰能源",
-    "code": "SH600989",
+    "code": "600989",
+    "exchange": "SH",
     "type": "A",
-    "price": 27.59,
-    "change_pct": -1.78
+    "price": 26.55,
+    "change_pct": -3.77
   },
   {
     "name": "拓维信息",
-    "code": "SZ002261",
+    "code": "002261",
+    "exchange": "SZ",
     "type": "A",
-    "price": 33.7,
-    "change_pct": -2.83
+    "price": 32.27,
+    "change_pct": -4.24
   },
   {
     "name": "埃斯顿",
-    "code": "SZ002747",
+    "code": "002747",
+    "exchange": "SZ",
     "type": "A",
-    "price": 26.1,
-    "change_pct": -2.83
+    "price": 28.7,
+    "change_pct": 9.96
   },
   {
     "name": "德赛西威",
-    "code": "SZ002920",
+    "code": "002920",
+    "exchange": "SZ",
     "type": "A",
-    "price": 96.47,
-    "change_pct": -6.02
+    "price": 106.12,
+    "change_pct": 10.0
   },
   {
     "name": "比亚迪",
-    "code": "SZ002594",
+    "code": "002594",
+    "exchange": "SZ",
     "type": "A",
-    "price": 93.36,
-    "change_pct": -2.75
+    "price": 93.51,
+    "change_pct": 0.16
   },
   {
     "name": "沪电股份",
-    "code": "SZ002463",
+    "code": "002463",
+    "exchange": "SZ",
     "type": "A",
-    "price": 103.58,
-    "change_pct": 0.96
-  },
-  {
-    "name": "拓普集团",
-    "code": "SH601689",
-    "type": "A",
-    "price": 70.2,
-    "change_pct": -1.42
-  },
-  {
-    "name": "中科曙光",
-    "code": "SH603019",
-    "type": "A",
-    "price": 98.38,
+    "price": 103.7,
     "change_pct": 0.12
   },
   {
-    "name": "锡业股份",
-    "code": "SZ000960",
+    "name": "拓普集团",
+    "code": "601689",
+    "exchange": "SH",
     "type": "A",
-    "price": 36.46,
-    "change_pct": 0.3
+    "price": 72.61,
+    "change_pct": 3.43
+  },
+  {
+    "name": "中科曙光",
+    "code": "603019",
+    "exchange": "SH",
+    "type": "A",
+    "price": 93.25,
+    "change_pct": -5.21
+  },
+  {
+    "name": "锡业股份",
+    "code": "000960",
+    "exchange": "SZ",
+    "type": "A",
+    "price": 36.29,
+    "change_pct": -0.47
   },
   {
     "name": "兴业银锡",
-    "code": "SZ000426",
+    "code": "000426",
+    "exchange": "SZ",
     "type": "A",
-    "price": 41.39,
-    "change_pct": -0.79
+    "price": 39.86,
+    "change_pct": -3.7
   },
   {
     "name": "中芯国际",
-    "code": "SH688981",
+    "code": "688981",
+    "exchange": "SH",
     "type": "A",
-    "price": 133.81,
-    "change_pct": 12.62
+    "price": 127.22,
+    "change_pct": -4.92
   },
   {
     "name": "金诚信",
-    "code": "SH603979",
+    "code": "603979",
+    "exchange": "SH",
     "type": "A",
-    "price": 63.05,
-    "change_pct": -4.05
+    "price": 63.5,
+    "change_pct": 0.71
   },
   {
     "name": "沪硅产业",
-    "code": "SH688126",
+    "code": "688126",
+    "exchange": "SH",
     "type": "A",
-    "price": 29.31,
-    "change_pct": -0.71
+    "price": 27.68,
+    "change_pct": -5.56
+  },
+  {
+    "name": "华海诚科",
+    "code": "688535",
+    "exchange": "SH",
+    "type": "A",
+    "price": 135.17,
+    "change_pct": -4.32
   },
   {
     "name": "中国巨石",
-    "code": "SH600176",
+    "code": "600176",
+    "exchange": "SH",
     "type": "A",
-    "price": 35.11,
-    "change_pct": 0.6
+    "price": 35.52,
+    "change_pct": 1.17
   },
   {
     "name": "东阳光",
-    "code": "SH600673",
+    "code": "600673",
+    "exchange": "SH",
     "type": "A",
-    "price": 38.46,
-    "change_pct": 1.48
+    "price": 36.18,
+    "change_pct": -5.93
   },
   {
     "name": "中石科技",
-    "code": "SZ300684",
+    "code": "300684",
+    "exchange": "SZ",
     "type": "A",
-    "price": 63.7,
-    "change_pct": 5.62
+    "price": 60.79,
+    "change_pct": -4.57
   },
   {
     "name": "胜宏科技",
-    "code": "SZ300476",
+    "code": "300476",
+    "exchange": "SZ",
     "type": "A",
-    "price": 334.2,
-    "change_pct": -0.82
+    "price": 331.4,
+    "change_pct": -0.84
   },
   {
     "name": "云南锗业",
-    "code": "SZ002428",
+    "code": "002428",
+    "exchange": "SZ",
     "type": "A",
-    "price": 91.0,
-    "change_pct": 0.45
+    "price": 83.8,
+    "change_pct": -7.91
   },
   {
     "name": "光库科技",
-    "code": "SZ300620",
+    "code": "300620",
+    "exchange": "SZ",
     "type": "A",
-    "price": 269.5,
-    "change_pct": -0.16
+    "price": 249.9,
+    "change_pct": -7.27
   },
   {
     "name": "中国铀业",
-    "code": "SZ001280",
+    "code": "001280",
+    "exchange": "SZ",
     "type": "A",
-    "price": 76.17,
-    "change_pct": -1.07
+    "price": 75.98,
+    "change_pct": -0.25
   },
   {
     "name": "东微半导",
-    "code": "SH688261",
+    "code": "688261",
+    "exchange": "SH",
     "type": "A",
-    "price": 85.3,
-    "change_pct": -1.82
+    "price": 77.7,
+    "change_pct": -8.91
   },
   {
     "name": "英维克",
-    "code": "SZ002837",
+    "code": "002837",
+    "exchange": "SZ",
     "type": "A",
-    "price": 108.41,
-    "change_pct": 5.87
+    "price": 100.53,
+    "change_pct": -7.27
+  },
+  {
+    "name": "阳光电源",
+    "code": "300274",
+    "exchange": "SZ",
+    "type": "A",
+    "price": 165.38,
+    "change_pct": -1.09
   },
   {
     "name": "福晶科技",
-    "code": "SZ002222",
+    "code": "002222",
+    "exchange": "SZ",
     "type": "A",
-    "price": 108.1,
-    "change_pct": 2.51
+    "price": 100.58,
+    "change_pct": -6.96
   },
   {
     "name": "兴森科技",
-    "code": "SZ002436",
+    "code": "002436",
+    "exchange": "SZ",
     "type": "A",
-    "price": 33.54,
-    "change_pct": 2.16
+    "price": 33.29,
+    "change_pct": -0.75
   },
   {
     "name": "康龙化成",
-    "code": "SZ300759",
+    "code": "300759",
+    "exchange": "SZ",
     "type": "A",
-    "price": 26.67,
-    "change_pct": 1.29
+    "price": 26.68,
+    "change_pct": 0.04
   },
   {
     "name": "科华数据",
-    "code": "SZ002335",
+    "code": "002335",
+    "exchange": "SZ",
     "type": "A",
-    "price": 66.9,
-    "change_pct": -1.21
+    "price": 62.22,
+    "change_pct": -7.0
   },
   {
     "name": "中兴通讯",
-    "code": "SZ000063",
+    "code": "000063",
+    "exchange": "SZ",
     "type": "A",
-    "price": 37.18,
-    "change_pct": -1.25
+    "price": 34.83,
+    "change_pct": -6.32
   },
   {
     "name": "中科创达",
-    "code": "SZ300496",
+    "code": "300496",
+    "exchange": "SZ",
     "type": "A",
-    "price": 68.2,
-    "change_pct": -1.9
+    "price": 69.04,
+    "change_pct": 1.5
   },
   {
     "name": "国电南瑞",
-    "code": "SH600406",
+    "code": "600406",
+    "exchange": "SH",
     "type": "A",
-    "price": 26.53,
-    "change_pct": -1.63
+    "price": 25.66,
+    "change_pct": -3.28
   },
   {
     "name": "海南华铁",
-    "code": "SH603300",
+    "code": "603300",
+    "exchange": "SH",
     "type": "A",
-    "price": 6.37,
-    "change_pct": -3.63
+    "price": 6.12,
+    "change_pct": -3.92
   },
   {
     "name": "通富微电",
-    "code": "SZ002156",
+    "code": "002156",
+    "exchange": "SZ",
     "type": "A",
-    "price": 62.28,
-    "change_pct": 5.81
+    "price": 61.76,
+    "change_pct": -0.83
   },
   {
     "name": "西藏珠峰",
-    "code": "SH600338",
+    "code": "600338",
+    "exchange": "SH",
     "type": "A",
-    "price": 20.59,
-    "change_pct": 1.43
+    "price": 19.93,
+    "change_pct": -3.21
   },
   {
     "name": "华虹公司",
-    "code": "SH688347",
+    "code": "688347",
+    "exchange": "SH",
     "type": "A",
-    "price": 177.8,
-    "change_pct": 18.74
+    "price": 169.0,
+    "change_pct": -4.95
   },
   {
     "name": "洛阳钼业",
-    "code": "SH603993",
+    "code": "603993",
+    "exchange": "SH",
     "type": "A",
-    "price": 17.96,
-    "change_pct": -1.21
+    "price": 17.64,
+    "change_pct": -1.78
   },
   {
     "name": "西藏矿业",
-    "code": "SZ000762",
+    "code": "000762",
+    "exchange": "SZ",
     "type": "A",
-    "price": 32.48,
-    "change_pct": 1.25
+    "price": 31.25,
+    "change_pct": -3.79
   },
   {
     "name": "雄韬股份",
-    "code": "SZ002733",
+    "code": "002733",
+    "exchange": "SZ",
     "type": "A",
-    "price": 25.71,
-    "change_pct": 0.27
+    "price": 25.23,
+    "change_pct": -1.87
   },
   {
     "name": "华工科技",
-    "code": "SZ000988",
+    "code": "000988",
+    "exchange": "SZ",
     "type": "A",
-    "price": 163.42,
-    "change_pct": 3.17
+    "price": 153.96,
+    "change_pct": -5.79
   },
   {
     "name": "中国船舶",
-    "code": "SH600150",
+    "code": "600150",
+    "exchange": "SH",
     "type": "A",
-    "price": 38.7,
-    "change_pct": 3.23
+    "price": 38.4,
+    "change_pct": -0.78
   },
   {
     "name": "神州数码",
-    "code": "SZ000034",
+    "code": "000034",
+    "exchange": "SZ",
     "type": "A",
-    "price": 30.19,
-    "change_pct": -2.49
+    "price": 28.01,
+    "change_pct": -7.22
   },
   {
-    "name": "石英股份",
-    "code": "SH603688",
-    "type": "A",
-    "price": 71.89,
-    "change_pct": 4.73
+    "name": "BABA-W",
+    "code": "09988",
+    "exchange": "HK",
+    "type": "HK",
+    "price": 131.9,
+    "change_pct": -0.53
+  },
+  {
+    "name": "EVEREST MED",
+    "code": "01952",
+    "exchange": "HK",
+    "type": "HK",
+    "price": 31.66,
+    "change_pct": -0.81
+  },
+  {
+    "name": "XTALPI",
+    "code": "02228",
+    "exchange": "HK",
+    "type": "HK",
+    "price": 7.9,
+    "change_pct": -1.25
+  },
+  {
+    "name": "XIAOMI-W",
+    "code": "01810",
+    "exchange": "HK",
+    "type": "HK",
+    "price": 30.14,
+    "change_pct": -0.2
+  },
+  {
+    "name": "MARKETINGFORCE",
+    "code": "02556",
+    "exchange": "HK",
+    "type": "HK",
+    "price": 41.64,
+    "change_pct": -1.56
+  },
+  {
+    "name": "JXR",
+    "code": "01951",
+    "exchange": "HK",
+    "type": "HK",
+    "price": 2.3,
+    "change_pct": -0.43
+  },
+  {
+    "name": "FU SHOU YUAN",
+    "code": "01448",
+    "exchange": "HK",
+    "type": "HK",
+    "price": 2.64,
+    "change_pct": 0
+  },
+  {
+    "name": "WUXI BIO",
+    "code": "02269",
+    "exchange": "HK",
+    "type": "HK",
+    "price": 33.14,
+    "change_pct": -0.12
+  },
+  {
+    "name": "CHINA POWER",
+    "code": "02380",
+    "exchange": "HK",
+    "type": "HK",
+    "price": 3.54,
+    "change_pct": 0.57
   }
 ]
