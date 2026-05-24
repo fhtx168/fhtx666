@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-22",
+  "indices": {},
+  "market_stats": {},
+  "industries": {
+    "top_gainers": [],
+    "top_losers": []
+  },
+  "concepts": {
+    "top_gainers": [],
+    "top_losers": []
+  },
+  "fund_flow": [],
+  "limit_up_down": {},
+  "indices_error": "'change'",
+  "market_stats_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "industries_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "concepts_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "fund_flow_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "limit_up_down_error": "module 'akshare' has no attribute 'stock_dt_pool_em'"
+}

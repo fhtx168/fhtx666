@@ -1,0 +1,35 @@
+{
+  "stock_name": "沪电股份",
+  "stock_code": "002463.SZ",
+  "broker": "海通证券",
+  "analyst": "陈明",
+  "report_date": "2026-05-15",
+  "rating": "增持",
+  "target_price": 38.0,
+  "current_price": 32.5,
+  "upside": 16.9,
+  "core_thesis": [
+    "AI服务器对高端PCB需求旺盛，特别是用于GPU和高速互联的HDI板",
+    "公司在高频高速PCB领域技术领先，良率和产能优势明显",
+    "深度绑定英伟达、AMD等AI芯片厂商供应链",
+    "新工厂投产提升产能，满足快速增长的市场需求"
+  ],
+  "financial_forecast": {
+    "revenue_2026": 156.8,
+    "revenue_2027": 198.4,
+    "net_profit_2026": 24.6,
+    "net_profit_2027": 32.8,
+    "eps_2026": 1.30,
+    "eps_2027": 1.73,
+    "pe_2026": 25.0,
+    "pe_2027": 18.8
+  },
+  "key_catalysts": "AI服务器出货量超预期、高端PCB价格稳定、新客户导入",
+  "risks": [
+    "PCB行业竞争加剧",
+    "原材料成本上涨",
+    "技术迭代风险",
+    "客户集中度较高"
+  ],
+  "sentiment": "看多"
+}

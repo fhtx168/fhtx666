@@ -1,0 +1,30 @@
+{
+  "macro_trend_weights": {
+    "economic_cycle_fit": 0.33,
+    "policy_support": 0.27,
+    "liquidity_sensitivity": 0.20,
+    "international_adaptability": 0.20
+  },
+  "industry_logic_weights": {
+    "growth_potential": 0.30,
+    "tech_moat": 0.25,
+    "competitive_advantage": 0.25,
+    "supply_chain_position": 0.20
+  },
+  "enterprise_performance_weights": {
+    "financial_health": 0.33,
+    "management_capability": 0.27,
+    "innovation_efficiency": 0.23,
+    "governance_quality": 0.17
+  },
+  "overall_weights": {
+    "macro_trend": 0.30,
+    "industry_logic": 0.40,
+    "enterprise_performance": 0.30
+  },
+  "scoring_thresholds": {
+    "add_position": 85,
+    "reduce_position": 60,
+    "liquidate": 40
+  }
+}

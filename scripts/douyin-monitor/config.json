@@ -1,0 +1,23 @@
+{
+  "monitored_creators": [
+    {
+      "name": "杨宁",
+      "keywords": ["杨宁", "财经", "股市分析"]
+    },
+    {
+      "name": "喜哥",
+      "keywords": ["喜哥", "股票", "投资"]
+    },
+    {
+      "name": "李大霄",
+      "keywords": ["李大霄", "英大证券", "股市观点"]
+    },
+    {
+      "name": "小小辛巴",
+      "keywords": ["小小辛巴", "价值投资", "股票分析"]
+    }
+  ],
+  "monitoring_mode": "keyword_search",
+  "output_dir": "../../portfolio/research-knowledge-base/douyin",
+  "update_frequency": "every_3_hours"
+}

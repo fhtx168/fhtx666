@@ -1,0 +1,35 @@
+{
+  "stock_name": "长电科技",
+  "stock_code": "600584.SH",
+  "broker": "华泰证券",
+  "analyst": "李伟",
+  "report_date": "2026-05-15",
+  "rating": "增持",
+  "target_price": 42.0,
+  "current_price": 35.8,
+  "upside": 17.3,
+  "core_thesis": [
+    "先进封装是AI芯片的关键技术路径，市场需求快速增长",
+    "公司在Chiplet、2.5D/3D封装技术方面布局领先",
+    "与国内外头部芯片设计公司深度合作，订单饱满",
+    "产能利用率持续提升，盈利能力改善"
+  ],
+  "financial_forecast": {
+    "revenue_2026": 398.5,
+    "revenue_2027": 465.2,
+    "net_profit_2026": 28.6,
+    "net_profit_2027": 36.4,
+    "eps_2026": 1.62,
+    "eps_2027": 2.06,
+    "pe_2026": 22.1,
+    "pe_2027": 17.4
+  },
+  "key_catalysts": "AI芯片先进封装需求爆发、Chiplet技术标准落地、新客户导入",
+  "risks": [
+    "先进封装技术研发不及预期",
+    "资本开支过大影响现金流",
+    "行业周期性波动",
+    "国际竞争对手技术突破"
+  ],
+  "sentiment": "看多"
+}

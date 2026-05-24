@@ -1,0 +1,290 @@
+{
+  "self-improving-agent": {
+    "name": "self-improving-agent",
+    "icon": "https://p0.qhimg.com/t11098f6bcda6e801a667a4e608.png"
+  },
+  "brainstorming": {
+    "name": "Brainstorming",
+    "icon": "https://p0.qhimg.com/t11098f6bcda6e801a667a4e608.png"
+  },
+  "daily-stock-analysis": {
+    "name": "Daily Stock Analysis",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "first-principles-analyzer": {
+    "name": "First Principles Analyzer",
+    "icon": "https://p0.qhimg.com/t11098f6bcd3fa740e70456c780.png"
+  },
+  "douyin-tracker": {
+    "name": "Douyin Tracker",
+    "icon": "https://p0.qhimg.com/t11098f6bcde75019d67e8c62dc.png"
+  },
+  "ljg-invest": {
+    "name": "李继刚-投资分析",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "ljg-skill-map": {
+    "name": "李继刚-技能地图",
+    "icon": "https://p0.qhimg.com/t11098f6bcdb6ac3ca87ea542b5.png"
+  },
+  "polymarket-trade": {
+    "name": "Polymarket",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "stock-market-pro": {
+    "name": "Stock Market Pro",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "mx-stocks-screener": {
+    "name": "Intelligent Stocks Screener",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "stock-watcher": {
+    "name": "Stock Watcher",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "tushare-finance": {
+    "name": "tushare-finance",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "mx-finance-data": {
+    "name": "All-Market Financial Data Hub",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "yahoo-finance": {
+    "name": "Yahoo Finance",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "data-analysis": {
+    "name": "Data Analysis",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "mx-macro-data": {
+    "name": "Global Macro Database Assistant",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "us-stock-analysis": {
+    "name": "Us Stock Analysis",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "stock-info-explorer": {
+    "name": "Stock Info Explorer",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "stock-monitor": {
+    "name": "Stock Monitor",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "stock-monitor-skill": {
+    "name": "Stock Monitor",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "market-research": {
+    "name": "Market Research",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "trading-coach": {
+    "name": "Trading Coach",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "finance": {
+    "name": "finance",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "finance-news": {
+    "name": "Finance News Briefings",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "market-environment-analysis": {
+    "name": "Market Environment Analysis",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "technical-analyst": {
+    "name": "Technical Analyst",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "initiation-of-coverage-or-deep-dive": {
+    "name": "Initiation of Coverage Agent",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "industry-research-report": {
+    "name": "Industry Research Agent",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "stock-earnings-review": {
+    "name": "Earnings Review Agent",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "industry-stock-tracker": {
+    "name": "Stock/Industry Tracker",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "tushare": {
+    "name": "Tushare Pro",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "fundamental-stock-analysis": {
+    "name": "Fundamental Stock Analysis",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "portfolio-watcher": {
+    "name": "Portfolio Watcher",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "polymarket-agent": {
+    "name": "Polymarket Agent",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "research-cog": {
+    "name": "Research Cog",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "wechat-mp-cn": {
+    "name": "WeChat MP CN",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "finnhub": {
+    "name": "Access Finnhub API for real-time stock quotes, company news, market data, financial statements, and trading signals",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "stock-price-query": {
+    "name": "股票查询 / Stock Price Query",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "finance-report-analyzer": {
+    "name": "Finance Report Analyzer",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "day-trading-skill": {
+    "name": "Day Trading Investor Pro",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "akshare-finance": {
+    "name": "Akshare Finance",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "china-stock-analysis": {
+    "name": "China Stock Analysis",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "garmin-health-analysis": {
+    "name": "Garmin Health Analysis",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "mx-financial-assistant": {
+    "name": "mx-financial-assistant",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "etf-assistant": {
+    "name": "ETF投资助理",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "polymarket-arbitrage": {
+    "name": "Polymarket Arbitrage",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "stock-price-checker": {
+    "name": "stock-price-checker",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "new-akshare-stock": {
+    "name": "akshare-stock",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "decision-trees": {
+    "name": "Decision Trees",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "yahoo-data-fetcher": {
+    "name": "yahoo fetch data of stonks",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "bitsoul-stock-quantization-pro": {
+    "name": "BitSoulStockSkill",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "actual-budget": {
+    "name": "Actual Budget",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "parallel-deep-research": {
+    "name": "Parallel Deep Research",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "odoo-openclaw-skill": {
+    "name": "Odoo Reporting",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "tecent-finance": {
+    "name": "Tecent Finance",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "stock-strategy-backtester": {
+    "name": "Stock Strategy Backtester",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "stock-prices": {
+    "name": "Stock Prices",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "mx-stockpick": {
+    "name": "MX Stock Pick",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "institutional-flow-tracker": {
+    "name": "Institutional Flow Tracker",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "causal-inference": {
+    "name": "Causal Inference",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "pre-mortem-analyst": {
+    "name": "Pre-Mortem Analyst",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "stock-analysis-lianghua": {
+    "name": "stock-analysis-lianghua",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "fin-cog": {
+    "name": "Fin Cog",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "just-fucking-cancel": {
+    "name": "Just Fucking Cancel",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "news-aggregator-skill-4": {
+    "name": "News Aggregator Skill",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "oura-analytics": {
+    "name": "Oura Ring Analytics",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "tushare-base": {
+    "name": "tushare-base",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "cuecue-deep-research": {
+    "name": "CueCue Deep Research",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "mckinsey-research": {
+    "name": "McKinsey Research",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "hk-ai-stock-expert": {
+    "name": "港股 AI 概念板块专属投研顾问。结合宏观流动性、南向资金博弈与 AI 产业基本面，提供深度的个股挖掘与风控策略。",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "finance-lite": {
+    "name": "Finance Lite (Beta): Daily Macro + Market Move Brief",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  },
+  "manus-stock-analysis": {
+    "name": "Stock Analysis",
+    "icon": "https://p0.qhimg.com/t11098f6bcd11f95c7fff481fad.png"
+  }
+}
