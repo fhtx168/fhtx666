@@ -1,5 +1,42 @@
 ﻿# Memory
 
+## 2026-05-24 投研能力全面提升（今日完成）
+
+### 新增 cron 任务（5 个）
+1. **叶荣添微博监控 (9:00)** - ID: 492fbd06
+2. **叶荣添微博监控 (15:00)** - ID: 0eefc05a
+3. **叶荣添微博监控 (20:00)** - ID: 4a9e1e1d
+4. **财经新闻扫描 (8:00 早盘前)** - ID: aa541ce6
+5. **财经新闻扫描 (18:00 收盘后)** - ID: 09919b58
+
+### 新增核心文件
+1. **市场监控仪表盘**: `strategicimplementation/market_monitoring_dashboard.md`
+2. **产业链知识图谱**: `portfolio/industry_knowledge_graph.md` (10KB，覆盖七张底牌)
+3. **多模型路由配置**: `config/model_routing.md`
+4. **Tushare 配置指南**: `config/tushare_setup.md`
+5. **视频转录配置**: `config/video_transcription.md`
+
+### 新增脚本
+1. `scripts/yrt_monitor.py` - 叶荣添监控脚本
+2. `scripts/finance_news_scan.py` - 财经新闻扫描脚本
+
+### 能力提升清单
+✅ 叶荣添微博自动监控（每日 3 次）
+✅ 财经新闻自动扫描（每日 2 次）
+✅ 产业链知识图谱（七张底牌全覆盖）
+✅ 多模型路由策略（按任务复杂度自动选择）
+⏳ Tushare Pro 实时行情（待配置 Token）
+⏳ 视频转录自动化（方案 A 立即可用）
+
+### 待办事项
+- [ ] P0: 配置 Tushare Pro API Token
+- [ ] P1: 测试叶荣添微博监控 cron 执行效果
+- [ ] P1: 测试财经新闻扫描 cron 执行效果
+- [ ] P1: 完善市场监控仪表盘数据接入
+- [ ] P2: 部署视频下载 + 转录自动化
+
+---
+
 ## 叶荣添《预见》第 112 集：如何吃到长鑫上市带来的红利？（2026-05-24 纳入）
 
 ### 视频信息
