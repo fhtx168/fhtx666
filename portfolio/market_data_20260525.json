@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-25",
+  "indices": {},
+  "market_stats": {},
+  "industries": {
+    "top_gainers": [],
+    "top_losers": []
+  },
+  "concepts": {
+    "top_gainers": [],
+    "top_losers": []
+  },
+  "fund_flow": [],
+  "limit_up_down": {
+    "涨停家数": 103,
+    "跌停家数": 15
+  },
+  "all_stocks": [],
+  "indices_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "market_stats_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "industries_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "concepts_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "fund_flow_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+}
