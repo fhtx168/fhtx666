@@ -5,8 +5,13 @@
 - [ ] Git 状态：`git status --porcelain` 有未提交变更？
 - [ ] 磁盘空间：C 盘剩余 < 10GB？
 - [ ] 关键进程：OpenClaw Gateway 是否运行？
+- [ ] 持仓更新：16:30 后检查是否收到用户持仓帖（方案 B）
 
 ## 检查逻辑
 1. 无异常 → 回复 `HEARTBEAT_OK`（零上下文）
 2. 有异常 → 记录到 `memory/heartbeat-issues.md` 并推送微信
 3. 不加载 MEMORY.md / memory/*.md（节省 97% token）
+
+## 持仓更新提醒（17:00）
+如 16:30-17:00 未收到持仓数据：
+- 推送微信提醒："飞鸿，今日持仓更新尚未收到，方便时请复制发帖。"
